@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644795499885",
+    "firebase_url": "https://chatcursodaniel.firebaseio.com",
+    "project_id": "chatcursodaniel",
+    "storage_bucket": "chatcursodaniel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644795499885:android:c69b756c8446e6b8218664",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644795499885-qvqe29ou1nmjs5c0iumem7skofqlsds1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_chat",
+            "certificate_hash": "294912ce090687c0afa72a2b1b03f479baf766a2"
+          }
+        },
+        {
+          "client_id": "644795499885-qn4tpd09qkovidgohs5qk3grckgk62s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxgu-uO09CCDVMbOaIZkUk_ZZL3h3ewgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644795499885-qn4tpd09qkovidgohs5qk3grckgk62s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
